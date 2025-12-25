@@ -24,16 +24,6 @@ This project demonstrates core backend concepts such as CRUD operations, data va
 
 ---
 
-## 📂 Project Structure
-
-fastapi-todo-crud-api/
-│── main.py
-│── models.py
-│── requirements.txt
-│── README.md
-
----
-
 ## ⚙️ Installation & Setup
 
 1. Clone the repository:
