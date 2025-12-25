@@ -60,10 +60,15 @@ Once the server is running, access:
 ## 📮 API Endpoints
 
 Method | Endpoint | Description
+
 GET | /todos | Get all todos
+
 GET | /todos/{id} | Get a single todo
+
 POST | /todos | Create a new todo
+
 PUT | /todos/{id} | Update an existing todo
+
 DELETE | /todos/{id} | Delete a todo
 
 ---
@@ -90,13 +95,11 @@ DELETE | /todos/{id} | Delete a todo
 
 ## 👤 Author
 
-Sam  
-Aspiring Backend / Cybersecurity Engineer
+Samiksha Ganesh Salunke  
 
 
-========================
 requirements.txt
-========================
+
 
 fastapi
 uvicorn
